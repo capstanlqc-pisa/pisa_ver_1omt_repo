@@ -40,7 +40,7 @@
           </repository>
         <repository type="git" url="https://github.com/&ORG;/pisa_t1-t2-rec_3omt_repo.git">
             <!-- previous step -->
-            <mapping local="tm/reconciled/" repository="rec_omt/mapped/" />
+            <mapping local="tm/auto/reconciled/" repository="rec_omt/mapped/" />
         </repository>        
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
