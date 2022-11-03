@@ -134,8 +134,8 @@
       <tuv lang="en">
         <seg>foo</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="pico" changedate="20221103T105054Z" creationid="TRA_pico" creationdate="20221021T114109Z">
-        <seg>xxbar</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221103T114411Z" creationid="TRA_pico" creationdate="20221021T114109Z">
+        <seg>bar</seg>
       </tuv>
     </tu>
     <tu>
