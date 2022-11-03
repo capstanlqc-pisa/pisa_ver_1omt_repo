@@ -4,6 +4,149 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114121Z" creationid="TRA_pico" creationdate="20221021T114121Z">
+        <seg>zzzzz zz &lt;x1/&gt; zz zzzz zzz zzzz zz zzz zzzzzz zzzz zzzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;to view this pint again.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114148Z" creationid="TRA_pico" creationdate="20221021T114148Z">
+        <seg>zzzzz zz &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;zz zzzz zzzz zzzz zzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Click ‘Run’ to see how the bananas work.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114150Z" creationid="TRA_pico" creationdate="20221021T114150Z">
+        <seg>zzzzz ‘zzz’ zz zzz zzz zzz zzzzzzz zzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Fix the &lt;x1/&gt;banana&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the flaw.&lt;x3/&gt;&lt;x4/&gt; so that the chewing flaw matches the gold state.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114147Z" creationid="TRA_pico" creationdate="20221021T114147Z">
+        <seg>zzz zzz &lt;x1/&gt;zzzzzz&lt;x2/&gt;z zzzzzz zz zzzzz zzzzzzz zzzz zzzzzzz zzz zzzzzzzzz zz z zzzzzzz, zzzz zzz zzzz.&lt;x3/&gt;&lt;x4/&gt; zz zzzz zzz zzzzzzz zzzz zzzzzzz zzz zzzz zzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>I built these bananas to help the flaw achieve the gold state.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114149Z" creationid="TRA_pico" creationdate="20221021T114149Z">
+        <seg>z zzzzz zzzzz zzzzzzz zz zzzz zzz zzzz zzzzzzz zzz zzzz zzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114141Z" creationid="TRA_pico" creationdate="20221021T114141Z">
+        <seg>zz zzzz zzzz, z zzzz zzzzz zzz zzz zz zzzzzzz zzz zzzzzzz zzzz zzzzzzzz zzzzz &lt;x1/&gt;zzzzzzz&lt;x2/&gt;z zzzzzz zz zzzzz zzzzzzz zzzz zzzzzzz zzz zzzzzzzzz zz z zzzzzzz, zzzz zzz zzzzzzz zzzz.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
+        <seg>zz zzz zzzz zz zzz zzzz zzzzzzzz zzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
+        <seg>zz zzz zzzzz zzz zzz zzz zzz &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114145Z" creationid="TRA_pico" creationdate="20221021T114145Z">
+        <seg>zzz zzzzzzz &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 2</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114146Z" creationid="TRA_pico" creationdate="20221021T114146Z">
+        <seg>zzz zzzzzzz &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114144Z" creationid="TRA_pico" creationdate="20221021T114144Z">
+        <seg>zzzz’z zzz zzzzz zzzzz.&lt;x1/&gt;zzz zzzz zzzzz zz zzzz zzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The &lt;x1/&gt;_________&lt;x2/&gt; is a missing peanut.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114143Z" creationid="TRA_pico" creationdate="20221021T114143Z">
+        <seg>zzz &lt;x1/&gt;_________&lt;x2/&gt; zz z zzzzzzz zzzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The banana should move ● to the grey square.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114147Z" creationid="TRA_pico" creationdate="20221021T114147Z">
+        <seg>zzz zzzzzz zzzzzz zzzz ● zz zzz zzzz zzzzzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The peanut in</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114142Z" creationid="TRA_pico" creationdate="20221021T114142Z">
+        <seg>zzz zzzzzz zz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>foo</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="pico" changedate="20221103T105054Z" creationid="TRA_pico" creationdate="20221021T114109Z">
+        <seg>xxbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>should be</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114143Z" creationid="TRA_pico" creationdate="20221021T114143Z">
+        <seg>zzzzzz zz</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
