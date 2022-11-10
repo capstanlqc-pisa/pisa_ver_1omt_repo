@@ -23,12 +23,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click ‘Run’ to see how the bananas work.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114150Z" creationid="TRA_pico" creationdate="20221021T114150Z">
-        <seg>zzzzz ‘zzz’ zz zzz zzz zzz zzzzzzz zzzz.</seg>
+      <tuv lang="fr-ZZ" changeid="AndFerrari" changedate="20221110T113315Z" creationid="TRA_pico" creationdate="20221021T114150Z">
+        <seg>Cliquez sur "Courir" pour voir les bananes au travail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,12 +40,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>I built these bananas to help the flaw achieve the gold state.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114149Z" creationid="TRA_pico" creationdate="20221021T114149Z">
-        <seg>z zzzzz zzzzz zzzzzzz zz zzzz zzz zzzz zzzzzzz zzz zzzz zzzzz.</seg>
+      <tuv lang="fr-ZZ" changeid="AndFerrari" changedate="20221110T113403Z" creationid="TRA_pico" creationdate="20221021T114149Z">
+        <seg>J'ai construit ces bananes pour atteindre le nirvana.</seg>
       </tuv>
     </tu>
     <tu>
