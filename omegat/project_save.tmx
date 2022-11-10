@@ -75,12 +75,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114145Z" creationid="TRA_pico" creationdate="20221021T114145Z">
-        <seg>zzz zzzzzzz &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T163310Z" creationid="TRA_pico" creationdate="20221021T114145Z">
+        <seg>ввв іва івців  &lt;x1/&gt;&lt;x2/&gt; #</seg>
       </tuv>
     </tu>
     <tu>
@@ -93,12 +92,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114144Z" creationid="TRA_pico" creationdate="20221021T114144Z">
-        <seg>zzzz’z zzz zzzzz zzzzz.&lt;x1/&gt;zzz zzzz zzzzz zz zzzz zzzz.</seg>
+      <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T163256Z" creationid="TRA_pico" creationdate="20221021T114144Z">
+        <seg>Tf sdf sdf sd.&lt;x1/&gt;zzz zzzz zzzzz zz zzzz zzzz.</seg>
       </tuv>
     </tu>
     <tu>
