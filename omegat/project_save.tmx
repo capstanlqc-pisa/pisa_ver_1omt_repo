@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -107,12 +107,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The banana should move ● to the grey square.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114147Z" creationid="TRA_pico" creationdate="20221021T114147Z">
-        <seg>zzz zzzzzz zzzzzz zzzz ● zz zzz zzzz zzzzzz.</seg>
+      <tuv lang="fr-ZZ" changeid="PipouncheMache" changedate="20221114T183802Z" creationid="TRA_pico" creationdate="20221021T114147Z">
+        <seg>PipouncheMache woz hiar ● zz zzz zzzz zzzzzz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133,12 +132,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>should be</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114143Z" creationid="TRA_pico" creationdate="20221021T114143Z">
-        <seg>zzzzzz zz</seg>
+      <tuv lang="fr-ZZ" changeid="PipouncheMache" changedate="20221114T183928Z" creationid="TRA_pico" creationdate="20221021T114143Z">
+        <seg>енд ПипунчеМаче уоз хиар туу zz</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
