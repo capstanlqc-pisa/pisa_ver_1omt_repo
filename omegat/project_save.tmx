@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114121Z" creationid="TRA_pico" creationdate="20221021T114121Z">
-        <seg>zzzzz zz &lt;x1/&gt; zz zzzz zzz zzzz zz zzz zzzzzz zzzz zzzzzz.</seg>
+      <tuv lang="fr-ZZ" changeid="danina-lupsa" changedate="20221114T165638Z" creationid="TRA_pico" creationdate="20221021T114121Z">
+        <seg>Cliquez sur &lt;x1/&gt; pour boire votre pinte si vous cahngez de vol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,12 +65,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
-        <seg>zz zzz zzzzz zzz zzz zzz zzz &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
+      <tuv lang="fr-ZZ" changeid="danina-lupsa" changedate="20221114T165702Z" creationid="TRA_pico" creationdate="20221021T114122Z">
+        <seg>Mais quelle mouche t'a piqué ?  &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
